@@ -1,1 +1,6 @@
-just a random message
+just a random message . lolol
+another message
+
+random message for random_branch2
+random message to make conflicts!
+get_that_branch_message_
