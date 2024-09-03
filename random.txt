@@ -17,3 +17,10 @@ konflikt_branch_from_main5
 konflikt_branch_from_konflikt3
 konflikt_branch_from_konflikt2
 
+<<<<<<< HEAD
+=======
+konflikt_branch_from_main6
+
+konflikt_branch_from_konflikt2
+
+>>>>>>> dd98998 (message from konflikt)
