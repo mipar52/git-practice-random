@@ -9,3 +9,6 @@ get_that_branch_message_
 konflikt_branch_from_main
 konflikt_branch_from_main2
 konflikt_branch_from_konflikt
+
+konflikt_branch_from_main3
+
